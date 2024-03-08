@@ -1,0 +1,62 @@
+body {
+	font-family: monaco, sans-serif;
+	font-size: 140%;
+	line-height: 150%;
+	margin: 10% 10% 10%;
+	color: darkgrey;
+	background-color: #fffdfd;
+}	
+h1 {
+	font: bold 5em garamond, serif;
+	color: palevioletred;
+	text-align: center;
+}
+h2 {
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	line-height: 150%;
+	color: palevioletred;
+	}
+.info {
+	list-style-type: none;
+	text-align: center;
+}
+.center {
+	text-align: center;
+}
+ul {
+	list-style-type: circle;
+	text-align: left;
+}
+p {
+	text-align: center;
+	font-style: italic;
+	line-height: 0%;
+}
+.about {
+	text-align: center;
+	font-style: italic;
+	line-height: 150%;
+}
+.job {
+	color: black;
+	line-height: 0%;
+}
+a:link {
+	color: palevioletred;
+	text-decoration: none;
+}
+a:hover {
+	color: hotpink;
+	text-decoration: underline;
+}
+img {
+	border-radius: 100%;
+}
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	}/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
